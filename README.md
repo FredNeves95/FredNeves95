@@ -1,6 +1,6 @@
 ### Hi there, my name is Fred 👋
 
-- 🔭 I’m currently studying Reacr and Node.js
+- 🔭 I’m currently studying React and Node.js
 - 🌱 I’m currently working with React
 - 👯 I’m looking to collaborate on front-end projects
 - 🤔 I’m looking for opportunities to start in the programming market
