@@ -1,8 +1,8 @@
 ### Oi devs 👋
 
-Programar é mais que um trabalho, é uma terapia.
+Eu sou Frederico, desenvolvedor front-end.
 
-## <img width="50" margin="0" alt="about" src="https://github.com/FredNeves95/meuPortfolio/blob/main/portfolio/src/images/logo.png"> Mais sobre mim
+## Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
