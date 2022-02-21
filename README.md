@@ -46,6 +46,6 @@ const sobreMim = () => {
 
 #### Rede Sociais!
 
-🏡 [website  (em construção)][website] **|** 
+🏡 [website][website] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
