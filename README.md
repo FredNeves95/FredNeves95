@@ -39,7 +39,7 @@ const sobreMim = () => {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FredNeves95&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: frederico-neves.vercel.app
+[website]: https://frederico-neves.vercel.app/
 [instagram]: https://www.instagram.com/fredneves95/
 [linkedin]: https://www.linkedin.com/in/frederico-neves-de-araujo/
 <br>
