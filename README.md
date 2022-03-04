@@ -1,4 +1,4 @@
-### Oi devs 👋
+### Oi👋
 
 Eu sou Frederico, desenvolvedor front-end.
 
