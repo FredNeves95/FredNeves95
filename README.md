@@ -12,7 +12,7 @@ const sobreMim = () => {
  const profession = "Desenvolvedor Front-end"
  
  const primarySkill = "React"
- const skils = ["HTML", "CSS", "JavaScript", "React", "Jest"] 
+ const skills = ["HTML", "CSS", "JavaScript", "React", "Jest"] 
 
 }
 ```
