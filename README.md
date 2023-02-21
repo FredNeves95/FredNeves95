@@ -9,10 +9,10 @@ Eu sou Frederico, desenvolvedor front-end.
 ```javascript
 const sobreMim = () => {
  const name = "Frederico Bruno Neves de Araújo"
- const profession = "Desenvolvedor Front-end"
+ const profession = "Desenvolvedor de Software"
  
  const primarySkill = "React"
- const skills = ["HTML", "CSS", "JavaScript", "Typescript", "React", "JEST", "Git"] 
+ const skills = ["HTML", "CSS", "JavaScript", "Typescript", "React", "Node", "JEST", "Git"] 
 
 }
 ```
