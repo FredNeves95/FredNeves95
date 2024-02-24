@@ -11,8 +11,8 @@ const sobreMim = () => {
  const name = "Frederico Bruno Neves de Araújo"
  const profession = "Desenvolvedor de Software"
  
- const primarySkill = "React"
- const skills = ["HTML", "CSS", "JavaScript", "Typescript", "React", "Node", "JEST", "Git"] 
+ const mainSkills = "React and Node"
+ const skills = ["HTML", "CSS", "JavaScript", "Typescript", "React", "React Native", "Vue", "Node", "JEST", "Git"] 
 
 }
 ```
